@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MoviesApplication</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="logout">Logout</string>
+    <string name="delete_user">Delete User</string>
+</resources>
